@@ -27,6 +27,9 @@ My personal responsibility on the project was to **design and program all enemie
 
 ### Thaddeus (Boss)
 
+<img width="486" height="352" alt="884169_5101f61c0dfe42ce8b6e15d45b792f2f~mv2" src="https://github.com/user-attachments/assets/9f60cc33-035b-429e-aa57-d14fe32a3cf7" />
+
+
 #### Attacks
 
 In its first phase Thaddeus attacks using swing and slam attacks. The player is required to use ground smash to pin Thaddeus' arm on the ground when it slams its arm. In its second phase, Thaddeus shoots projectiles that cannot be deflected.
@@ -37,9 +40,9 @@ In its first phase, the slam and sweep attack animations were created using elab
 
 Thaddeus is the second boss in SpiritBound Odyssey and is found in **Level 3**. It is the first boss I created for the game using **animation timelines** and Unreal Engine’s **AI Behavior Tree** system. It is a stationary boss consisting of **two phases** requiring good reflexes to dodge attacks as well as patience.
 
-#### Demo (MP4)
+![ezgif-618d960ddd37a213](https://github.com/user-attachments/assets/af65679b-5be2-453e-9f13-b8e1183df3fd)
 
-- **Thaddeus Sweep (MP4)**: `https://video.wixstatic.com/video/884169_f1052c3036c04217a188e00bc853c36a/720p/mp4/file.mp4`
+
 
 #### Design Decisions
 
@@ -70,9 +73,8 @@ In the second phase, the boss' gears have been destroyed, causing the boss to at
 
 ![Enemy in the Industry - Phase 2](https://static.wixstatic.com/media/884169_a69a084f2d5748fdb5fa43f8356d90d1~mv2.png/v1/fill/w_484,h_272,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IndustryBossSecondPhase.png)
 
-#### Demo (MP4)
+![ezgif-700f28c64808cff4](https://github.com/user-attachments/assets/eb4d45a0-3117-4c0f-a465-dbc5de9d2c4a)
 
-- **Phase / Mechanics Demo (MP4)**: `https://video.wixstatic.com/video/884169_a054f873067d42f8ba7905ee890fc470/720p/mp4/file.mp4`
 
 #### Design Decisions
 
@@ -98,9 +100,8 @@ Rogelio is the first boss of the game and appears in **Level 1**. It is the thir
 
 ![Rogelio - Attacking](https://static.wixstatic.com/media/884169_5527e2bddb4f47d7aa2064164cdfd51f~mv2.png/v1/fill/w_479,h_269,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/RogelioAttacking.png)
 
-#### Demo (MP4)
+![ezgif-776513c9aeab1ec5](https://github.com/user-attachments/assets/8deee675-84e7-441f-b5b3-dd0afa942dc1)
 
-- **Rogelio Ground Slam (MP4)**: `https://video.wixstatic.com/video/884169_02ac67c0e66d43c68fca2fb75ab4a5a1/720p/mp4/file.mp4`
 
 #### Design Decisions
 
